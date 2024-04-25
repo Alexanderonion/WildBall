@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Traps
+  m_EditorClassIdentifier: 
+  m_GroupName: Traps
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c51bcd95243cffb47ba09e9c888add6b
+  m_SerializeEntries:
+  - m_GUID: d1bb0c612e881da4ea7e765024777734
+    m_Address: spikeForDarts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2237f224072382640a990ed60179d51c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1402b94507a698642a20ad94582170b6, type: 2}
+    - {fileID: 11400000, guid: 179d21344fa44e9488a82ba26a854678, type: 2}
